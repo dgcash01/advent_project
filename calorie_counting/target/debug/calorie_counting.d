@@ -1,0 +1,1 @@
+C:\Users\dan_c\RustTuts\advent_project\calorie_counting\target\debug\calorie_counting.exe: C:\Users\dan_c\RustTuts\advent_project\calorie_counting\src\elf_calories C:\Users\dan_c\RustTuts\advent_project\calorie_counting\src\main.rs
